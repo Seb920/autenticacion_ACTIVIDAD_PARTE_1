@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1043134524111",
+    "project_id": "autentificacion-8b1d5",
+    "storage_bucket": "autentificacion-8b1d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043134524111:android:89d1582851902c51d965ba",
+        "android_client_info": {
+          "package_name": "com.norbel.autenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043134524111-er5cvun1vd8evck5eq29gemf7vlh4ket.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3QNDPEB7OLT8H1wf8JoKG7RS7hCrW1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043134524111-er5cvun1vd8evck5eq29gemf7vlh4ket.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043134524111:android:4e99156112f41cbed965ba",
+        "android_client_info": {
+          "package_name": "com.norbel.bitacora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043134524111-er5cvun1vd8evck5eq29gemf7vlh4ket.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3QNDPEB7OLT8H1wf8JoKG7RS7hCrW1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043134524111-er5cvun1vd8evck5eq29gemf7vlh4ket.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
